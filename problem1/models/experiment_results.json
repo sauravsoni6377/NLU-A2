@@ -1,0 +1,218 @@
+{
+  "skipgram_dim50": {
+    "final_loss": 1.4604871365286054,
+    "config": {
+      "embedding_dim": 50,
+      "window_size": 5,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "cbow_dim50": {
+    "final_loss": 1.9854983548323313,
+    "config": {
+      "embedding_dim": 50,
+      "window_size": 5,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "skipgram_dim100": {
+    "final_loss": 1.36405649071648,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 5,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "cbow_dim100": {
+    "final_loss": 1.6550141592820486,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 5,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "skipgram_dim200": {
+    "final_loss": 1.2811895204504682,
+    "config": {
+      "embedding_dim": 200,
+      "window_size": 5,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "cbow_dim200": {
+    "final_loss": 1.3881905694802603,
+    "config": {
+      "embedding_dim": 200,
+      "window_size": 5,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "skipgram_win2": {
+    "final_loss": 1.2166089789811956,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 2,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "cbow_win2": {
+    "final_loss": 1.4715250213940938,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 2,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "skipgram_win5": {
+    "final_loss": 1.3659203127248962,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 5,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "cbow_win5": {
+    "final_loss": 1.6496539433797202,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 5,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "skipgram_win7": {
+    "final_loss": 1.4230746744441338,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 7,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "cbow_win7": {
+    "final_loss": 1.718680316209793,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 7,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "skipgram_neg3": {
+    "final_loss": 1.0893315027157466,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 5,
+      "num_negative": 3,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "cbow_neg3": {
+    "final_loss": 1.1653552969296774,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 5,
+      "num_negative": 3,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "skipgram_neg5": {
+    "final_loss": 1.3574207724925287,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 5,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "cbow_neg5": {
+    "final_loss": 1.6633235335350036,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 5,
+      "num_negative": 5,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "skipgram_neg10": {
+    "final_loss": 1.8233436374521967,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 5,
+      "num_negative": 10,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  },
+  "cbow_neg10": {
+    "final_loss": 2.8093173702557883,
+    "config": {
+      "embedding_dim": 100,
+      "window_size": 5,
+      "num_negative": 10,
+      "min_count": 3,
+      "learning_rate": 0.001,
+      "epochs": 15,
+      "batch_size": 512
+    }
+  }
+}

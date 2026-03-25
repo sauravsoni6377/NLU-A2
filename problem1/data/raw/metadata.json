@@ -1,0 +1,502 @@
+[
+  {
+    "filename": "department_025.txt",
+    "char_count": 1485,
+    "word_count": 207
+  },
+  {
+    "filename": "department_026.txt",
+    "char_count": 1362,
+    "word_count": 185
+  },
+  {
+    "filename": "department_027.txt",
+    "char_count": 2022,
+    "word_count": 261
+  },
+  {
+    "filename": "department_028.txt",
+    "char_count": 1362,
+    "word_count": 185
+  },
+  {
+    "filename": "department_029.txt",
+    "char_count": 1699,
+    "word_count": 222
+  },
+  {
+    "filename": "department_030.txt",
+    "char_count": 2379,
+    "word_count": 313
+  },
+  {
+    "filename": "department_031.txt",
+    "char_count": 5191,
+    "word_count": 708
+  },
+  {
+    "filename": "department_032.txt",
+    "char_count": 2210,
+    "word_count": 325
+  },
+  {
+    "filename": "department_033.txt",
+    "char_count": 3510,
+    "word_count": 501
+  },
+  {
+    "filename": "department_034.txt",
+    "char_count": 1890,
+    "word_count": 278
+  },
+  {
+    "filename": "department_035.txt",
+    "char_count": 2497,
+    "word_count": 336
+  },
+  {
+    "filename": "department_036.txt",
+    "char_count": 1787,
+    "word_count": 225
+  },
+  {
+    "filename": "department_037.txt",
+    "char_count": 1799,
+    "word_count": 234
+  },
+  {
+    "filename": "department_038.txt",
+    "char_count": 1729,
+    "word_count": 231
+  },
+  {
+    "filename": "department_039.txt",
+    "char_count": 3634,
+    "word_count": 476
+  },
+  {
+    "filename": "department_040.txt",
+    "char_count": 3202,
+    "word_count": 400
+  },
+  {
+    "filename": "department_041.txt",
+    "char_count": 4803,
+    "word_count": 668
+  },
+  {
+    "filename": "faculty_002.txt",
+    "char_count": 1068,
+    "word_count": 132
+  },
+  {
+    "filename": "faculty_014.txt",
+    "char_count": 2175,
+    "word_count": 282
+  },
+  {
+    "filename": "faculty_015.txt",
+    "char_count": 2598,
+    "word_count": 334
+  },
+  {
+    "filename": "faculty_016.txt",
+    "char_count": 2700,
+    "word_count": 343
+  },
+  {
+    "filename": "faculty_017.txt",
+    "char_count": 2625,
+    "word_count": 338
+  },
+  {
+    "filename": "extra_100.txt",
+    "char_count": 0,
+    "word_count": 185
+  },
+  {
+    "filename": "extra_101.txt",
+    "char_count": 0,
+    "word_count": 231
+  },
+  {
+    "filename": "extra_102.txt",
+    "char_count": 0,
+    "word_count": 227
+  },
+  {
+    "filename": "extra_103.txt",
+    "char_count": 0,
+    "word_count": 641
+  },
+  {
+    "filename": "extra_104.txt",
+    "char_count": 0,
+    "word_count": 886
+  },
+  {
+    "filename": "extra_105.txt",
+    "char_count": 0,
+    "word_count": 205
+  },
+  {
+    "filename": "extra_106.txt",
+    "char_count": 0,
+    "word_count": 282
+  },
+  {
+    "filename": "extra_107.txt",
+    "char_count": 0,
+    "word_count": 246
+  },
+  {
+    "filename": "extra_108.txt",
+    "char_count": 0,
+    "word_count": 220
+  },
+  {
+    "filename": "extra_109.txt",
+    "char_count": 0,
+    "word_count": 265
+  },
+  {
+    "filename": "extra_110.txt",
+    "char_count": 0,
+    "word_count": 448
+  },
+  {
+    "filename": "extra_111.txt",
+    "char_count": 0,
+    "word_count": 185
+  },
+  {
+    "filename": "extra_112.txt",
+    "char_count": 0,
+    "word_count": 313
+  },
+  {
+    "filename": "extra_113.txt",
+    "char_count": 0,
+    "word_count": 427
+  },
+  {
+    "filename": "extra_114.txt",
+    "char_count": 0,
+    "word_count": 287
+  },
+  {
+    "filename": "extra_115.txt",
+    "char_count": 0,
+    "word_count": 366
+  },
+  {
+    "filename": "extra_116.txt",
+    "char_count": 0,
+    "word_count": 225
+  },
+  {
+    "filename": "extra_117.txt",
+    "char_count": 0,
+    "word_count": 242
+  },
+  {
+    "filename": "extra_118.txt",
+    "char_count": 0,
+    "word_count": 334
+  },
+  {
+    "filename": "extra_119.txt",
+    "char_count": 0,
+    "word_count": 366
+  },
+  {
+    "filename": "extra_120.txt",
+    "char_count": 0,
+    "word_count": 223
+  },
+  {
+    "filename": "extra_121.txt",
+    "char_count": 0,
+    "word_count": 10403
+  },
+  {
+    "filename": "extra_122.txt",
+    "char_count": 0,
+    "word_count": 696
+  },
+  {
+    "filename": "extra_123.txt",
+    "char_count": 0,
+    "word_count": 460
+  },
+  {
+    "filename": "extra_124.txt",
+    "char_count": 0,
+    "word_count": 278
+  },
+  {
+    "filename": "extra_125.txt",
+    "char_count": 0,
+    "word_count": 333
+  },
+  {
+    "filename": "extra_126.txt",
+    "char_count": 0,
+    "word_count": 339
+  },
+  {
+    "filename": "extra_127.txt",
+    "char_count": 0,
+    "word_count": 193
+  },
+  {
+    "filename": "extra_128.txt",
+    "char_count": 0,
+    "word_count": 340
+  },
+  {
+    "filename": "extra_129.txt",
+    "char_count": 0,
+    "word_count": 132
+  },
+  {
+    "filename": "extra_130.txt",
+    "char_count": 0,
+    "word_count": 426
+  },
+  {
+    "filename": "extra_131.txt",
+    "char_count": 0,
+    "word_count": 234
+  },
+  {
+    "filename": "extra_132.txt",
+    "char_count": 0,
+    "word_count": 246
+  },
+  {
+    "filename": "extra_133.txt",
+    "char_count": 0,
+    "word_count": 662
+  },
+  {
+    "filename": "extra_134.txt",
+    "char_count": 0,
+    "word_count": 451
+  },
+  {
+    "filename": "extra_135.txt",
+    "char_count": 0,
+    "word_count": 123
+  },
+  {
+    "filename": "extra_136.txt",
+    "char_count": 0,
+    "word_count": 675
+  },
+  {
+    "filename": "extra_137.txt",
+    "char_count": 0,
+    "word_count": 315
+  },
+  {
+    "filename": "extra_138.txt",
+    "char_count": 0,
+    "word_count": 135
+  },
+  {
+    "filename": "extra_139.txt",
+    "char_count": 0,
+    "word_count": 272
+  },
+  {
+    "filename": "extra_140.txt",
+    "char_count": 0,
+    "word_count": 501
+  },
+  {
+    "filename": "extra_141.txt",
+    "char_count": 0,
+    "word_count": 271
+  },
+  {
+    "filename": "extra_142.txt",
+    "char_count": 0,
+    "word_count": 210
+  },
+  {
+    "filename": "extra_143.txt",
+    "char_count": 0,
+    "word_count": 261
+  },
+  {
+    "filename": "extra_144.txt",
+    "char_count": 0,
+    "word_count": 336
+  },
+  {
+    "filename": "extra_145.txt",
+    "char_count": 0,
+    "word_count": 222
+  },
+  {
+    "filename": "extra_146.txt",
+    "char_count": 0,
+    "word_count": 325
+  },
+  {
+    "filename": "extra_147.txt",
+    "char_count": 0,
+    "word_count": 304
+  },
+  {
+    "filename": "extra_148.txt",
+    "char_count": 0,
+    "word_count": 434
+  },
+  {
+    "filename": "extra_149.txt",
+    "char_count": 0,
+    "word_count": 744
+  },
+  {
+    "filename": "extra_150.txt",
+    "char_count": 0,
+    "word_count": 277
+  },
+  {
+    "filename": "extra_151.txt",
+    "char_count": 0,
+    "word_count": 289
+  },
+  {
+    "filename": "extra_152.txt",
+    "char_count": 0,
+    "word_count": 250
+  },
+  {
+    "filename": "extra_153.txt",
+    "char_count": 0,
+    "word_count": 346
+  },
+  {
+    "filename": "extra_154.txt",
+    "char_count": 0,
+    "word_count": 641
+  },
+  {
+    "filename": "extra_155.txt",
+    "char_count": 0,
+    "word_count": 233
+  },
+  {
+    "filename": "extra_156.txt",
+    "char_count": 0,
+    "word_count": 225
+  },
+  {
+    "filename": "extra_157.txt",
+    "char_count": 0,
+    "word_count": 353
+  },
+  {
+    "filename": "extra_158.txt",
+    "char_count": 0,
+    "word_count": 880
+  },
+  {
+    "filename": "extra_159.txt",
+    "char_count": 0,
+    "word_count": 131
+  },
+  {
+    "filename": "extra_160.txt",
+    "char_count": 0,
+    "word_count": 218
+  },
+  {
+    "filename": "extra_161.txt",
+    "char_count": 0,
+    "word_count": 587
+  },
+  {
+    "filename": "extra_162.txt",
+    "char_count": 0,
+    "word_count": 400
+  },
+  {
+    "filename": "extra_163.txt",
+    "char_count": 0,
+    "word_count": 501
+  },
+  {
+    "filename": "extra_164.txt",
+    "char_count": 0,
+    "word_count": 3730
+  },
+  {
+    "filename": "extra_165.txt",
+    "char_count": 0,
+    "word_count": 546
+  },
+  {
+    "filename": "extra_166.txt",
+    "char_count": 0,
+    "word_count": 531
+  },
+  {
+    "filename": "extra_167.txt",
+    "char_count": 0,
+    "word_count": 352
+  },
+  {
+    "filename": "extra_168.txt",
+    "char_count": 0,
+    "word_count": 222
+  },
+  {
+    "filename": "extra_169.txt",
+    "char_count": 0,
+    "word_count": 256
+  },
+  {
+    "filename": "extra_170.txt",
+    "char_count": 0,
+    "word_count": 622
+  },
+  {
+    "filename": "extra_171.txt",
+    "char_count": 0,
+    "word_count": 516
+  },
+  {
+    "filename": "extra_172.txt",
+    "char_count": 0,
+    "word_count": 362
+  },
+  {
+    "filename": "extra_173.txt",
+    "char_count": 0,
+    "word_count": 163
+  },
+  {
+    "filename": "extra_174.txt",
+    "char_count": 0,
+    "word_count": 343
+  },
+  {
+    "filename": "extra_175.txt",
+    "char_count": 0,
+    "word_count": 207
+  },
+  {
+    "filename": "extra_176.txt",
+    "char_count": 0,
+    "word_count": 325
+  },
+  {
+    "filename": "extra_177.txt",
+    "char_count": 0,
+    "word_count": 338
+  }
+]

@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (large binary files)
+problem1/models/*/
+problem1/models/gensim/
+problem2/models/*.pt
+
+# Keep experiment results JSON
+!problem1/models/experiment_results.json
+
+# OS files
+.DS_Store
+*.swp
+
+# NLTK data
+nltk_data/

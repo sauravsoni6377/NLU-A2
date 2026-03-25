@@ -1,0 +1,12 @@
+torch
+gensim
+nltk
+beautifulsoup4
+requests
+matplotlib
+scikit-learn
+wordcloud
+numpy
+pandas
+lxml
+tqdm

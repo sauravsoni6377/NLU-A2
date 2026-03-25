@@ -1,0 +1,434 @@
+{
+  "skipgram_dim100": {
+    "nearest_neighbors": {
+      "research": [
+        {
+          "word": "facility",
+          "similarity": 0.6891017556190491
+        },
+        {
+          "word": "crf",
+          "similarity": 0.6713708639144897
+        },
+        {
+          "word": "company",
+          "similarity": 0.6473180055618286
+        },
+        {
+          "word": "analyzer",
+          "similarity": 0.6213803887367249
+        },
+        {
+          "word": "fab",
+          "similarity": 0.6210173964500427
+        }
+      ],
+      "student": [
+        {
+          "word": "wellbeing",
+          "similarity": 0.8490721583366394
+        },
+        {
+          "word": "placements",
+          "similarity": 0.796873927116394
+        },
+        {
+          "word": "students",
+          "similarity": 0.7576789855957031
+        },
+        {
+          "word": "life",
+          "similarity": 0.7323880195617676
+        },
+        {
+          "word": "oversight",
+          "similarity": 0.7086937427520752
+        }
+      ],
+      "phd": [
+        {
+          "word": "ms",
+          "similarity": 0.7831322550773621
+        },
+        {
+          "word": "mtech",
+          "similarity": 0.7698108553886414
+        },
+        {
+          "word": "msc",
+          "similarity": 0.7612174153327942
+        },
+        {
+          "word": "fintech",
+          "similarity": 0.7504902482032776
+        },
+        {
+          "word": "cybersecurity",
+          "similarity": 0.7445037961006165
+        }
+      ],
+      "semester": [
+        {
+          "word": "grade",
+          "similarity": 0.8453500270843506
+        },
+        {
+          "word": "course",
+          "similarity": 0.826119065284729
+        },
+        {
+          "word": "evaluation",
+          "similarity": 0.8150531053543091
+        },
+        {
+          "word": "shortlisted",
+          "similarity": 0.7879537343978882
+        },
+        {
+          "word": "test",
+          "similarity": 0.7530971765518188
+        }
+      ],
+      "faculty": [
+        {
+          "word": "scholars-in-residence",
+          "similarity": 0.8749192953109741
+        },
+        {
+          "word": "adjunct",
+          "similarity": 0.856514036655426
+        },
+        {
+          "word": "members",
+          "similarity": 0.8435452580451965
+        },
+        {
+          "word": "applicants",
+          "similarity": 0.8146371841430664
+        },
+        {
+          "word": "positions",
+          "similarity": 0.796554446220398
+        }
+      ]
+    },
+    "analogies": {
+      "ug:btech::pg:?": {
+        "description": "Degree level analogy",
+        "results": [
+          {
+            "word": "artificial",
+            "similarity": 0.7678963541984558
+          },
+          {
+            "word": "intelligence",
+            "similarity": 0.7463871240615845
+          },
+          {
+            "word": "diploma",
+            "similarity": 0.7317715883255005
+          },
+          {
+            "word": "discontinued",
+            "similarity": 0.7259001135826111
+          },
+          {
+            "word": "msc",
+            "similarity": 0.6822615265846252
+          }
+        ]
+      },
+      "department:head::institute:?": {
+        "description": "Leadership hierarchy analogy",
+        "results": [
+          {
+            "word": "benefit",
+            "similarity": 0.5038104057312012
+          },
+          {
+            "word": "park",
+            "similarity": 0.4849376678466797
+          },
+          {
+            "word": "sources",
+            "similarity": 0.48464569449424744
+          },
+          {
+            "word": "technological",
+            "similarity": 0.48335695266723633
+          },
+          {
+            "word": "economic",
+            "similarity": 0.48129889369010925
+          }
+        ]
+      },
+      "student:campus::faculty:?": {
+        "description": "Role-place analogy",
+        "results": [
+          {
+            "word": "scholars-in-residence",
+            "similarity": 0.6478373408317566
+          },
+          {
+            "word": "adjunct",
+            "similarity": 0.6427465677261353
+          },
+          {
+            "word": "visiting",
+            "similarity": 0.639204740524292
+          },
+          {
+            "word": "applicants",
+            "similarity": 0.61850905418396
+          },
+          {
+            "word": "members",
+            "similarity": 0.5944129228591919
+          }
+        ]
+      },
+      "btech:ug::mtech:?": {
+        "description": "Degree abbreviation analogy",
+        "results": [
+          {
+            "word": "msc",
+            "similarity": 0.7870587110519409
+          },
+          {
+            "word": "semester",
+            "similarity": 0.7826427817344666
+          },
+          {
+            "word": "onwards",
+            "similarity": 0.7641958594322205
+          },
+          {
+            "word": "bs",
+            "similarity": 0.7635759711265564
+          },
+          {
+            "word": "reporting",
+            "similarity": 0.7594254016876221
+          }
+        ]
+      }
+    }
+  },
+  "cbow_dim100": {
+    "nearest_neighbors": {
+      "research": [
+        {
+          "word": "crf",
+          "similarity": 0.9650862812995911
+        },
+        {
+          "word": "facility",
+          "similarity": 0.9618266820907593
+        },
+        {
+          "word": "fab",
+          "similarity": 0.9501981139183044
+        },
+        {
+          "word": "aiot",
+          "similarity": 0.947030782699585
+        },
+        {
+          "word": "development",
+          "similarity": 0.9271668791770935
+        }
+      ],
+      "student": [
+        {
+          "word": "wellbeing",
+          "similarity": 0.96135413646698
+        },
+        {
+          "word": "students",
+          "similarity": 0.9236083626747131
+        },
+        {
+          "word": "placements",
+          "similarity": 0.9115981459617615
+        },
+        {
+          "word": "vocational",
+          "similarity": 0.9008958339691162
+        },
+        {
+          "word": "organizing",
+          "similarity": 0.8992801308631897
+        }
+      ],
+      "phd": [
+        {
+          "word": "program",
+          "similarity": 0.9588006138801575
+        },
+        {
+          "word": "degree",
+          "similarity": 0.9566396474838257
+        },
+        {
+          "word": "mtech",
+          "similarity": 0.9538828730583191
+        },
+        {
+          "word": "msc",
+          "similarity": 0.9485751390457153
+        },
+        {
+          "word": "minor",
+          "similarity": 0.9484255313873291
+        }
+      ],
+      "semester": [
+        {
+          "word": "course",
+          "similarity": 0.9825558066368103
+        },
+        {
+          "word": "event",
+          "similarity": 0.9677148461341858
+        },
+        {
+          "word": "calender",
+          "similarity": 0.9619317054748535
+        },
+        {
+          "word": "letters",
+          "similarity": 0.9544628858566284
+        },
+        {
+          "word": "ii",
+          "similarity": 0.9501673579216003
+        }
+      ],
+      "faculty": [
+        {
+          "word": "positions",
+          "similarity": 0.991242527961731
+        },
+        {
+          "word": "members",
+          "similarity": 0.9841804504394531
+        },
+        {
+          "word": "applicants",
+          "similarity": 0.9826538562774658
+        },
+        {
+          "word": "faqs",
+          "similarity": 0.9783903360366821
+        },
+        {
+          "word": "visiting",
+          "similarity": 0.9775109887123108
+        }
+      ]
+    },
+    "analogies": {
+      "ug:btech::pg:?": {
+        "description": "Degree level analogy",
+        "results": [
+          {
+            "word": "diploma",
+            "similarity": 0.961638331413269
+          },
+          {
+            "word": "discontinued",
+            "similarity": 0.9550700783729553
+          },
+          {
+            "word": "admissions",
+            "similarity": 0.9470058083534241
+          },
+          {
+            "word": "ms",
+            "similarity": 0.9383368492126465
+          },
+          {
+            "word": "mtech",
+            "similarity": 0.9332855343818665
+          }
+        ]
+      },
+      "department:head::institute:?": {
+        "description": "Leadership hierarchy analogy",
+        "results": [
+          {
+            "word": "sitemap",
+            "similarity": 0.8521982431411743
+          },
+          {
+            "word": "consulting",
+            "similarity": 0.8464038968086243
+          },
+          {
+            "word": "station",
+            "similarity": 0.8341249227523804
+          },
+          {
+            "word": "committed",
+            "similarity": 0.8319995999336243
+          },
+          {
+            "word": "formal",
+            "similarity": 0.8293677568435669
+          }
+        ]
+      },
+      "student:campus::faculty:?": {
+        "description": "Role-place analogy",
+        "results": [
+          {
+            "word": "members",
+            "similarity": 0.8613094687461853
+          },
+          {
+            "word": "pursue",
+            "similarity": 0.8461418747901917
+          },
+          {
+            "word": "visiting",
+            "similarity": 0.841282844543457
+          },
+          {
+            "word": "associated",
+            "similarity": 0.8402935266494751
+          },
+          {
+            "word": "seek",
+            "similarity": 0.8371350765228271
+          }
+        ]
+      },
+      "btech:ug::mtech:?": {
+        "description": "Degree abbreviation analogy",
+        "results": [
+          {
+            "word": "reporting",
+            "similarity": 0.8954793214797974
+          },
+          {
+            "word": "pg",
+            "similarity": 0.8730478882789612
+          },
+          {
+            "word": "structure",
+            "similarity": 0.8728793859481812
+          },
+          {
+            "word": "higher",
+            "similarity": 0.8568168878555298
+          },
+          {
+            "word": "semester",
+            "similarity": 0.8561174273490906
+          }
+        ]
+      }
+    }
+  }
+}
